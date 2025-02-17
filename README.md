@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pourya Behzad Pour</h1>
 <h3 align="center">A front end web developer (VueJs)</h3>
 
-- 🌱 I’m currently learning **UI/UX design**
+- 🌱 I’m currently learning **UI/UX design - Node.Js**
 
 - 💬 Ask me about **vue, gsap, css, scss , html, javascript ...**
 
